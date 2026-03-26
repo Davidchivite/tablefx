@@ -1,7 +1,6 @@
 package eus.ehu;
 
 import com.google.gson.Gson;
-
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextArea;

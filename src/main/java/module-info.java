@@ -7,3 +7,4 @@ module eus.ehu {
     opens eus.ehu to javafx.fxml, com.google.gson;
     exports eus.ehu;
 }
+
